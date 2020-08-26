@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+lets check out my new abilities *text* **me** ## your # opinion of > something
 Use the left arrow to go back!
